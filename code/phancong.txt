@@ -1,0 +1,3 @@
+-NGUYỄN NHỰT ANH:Thực hiện chèn logo cho trang và format phần header .
+-TRẦN TRIỆU VY và NGUYỄN BÌNH AN: chèn ảnh sản phẩm cần bán vào thân trang (sản phẩm điện thoại) mỗi bạn thực hiện 3 sản phẩm
+-HUỲNH PHƯỚC HƯNG : Chỉnh sửa lại các thiếu sót của trang cho trang web ưa nhìn
